@@ -1,4 +1,4 @@
-## Hi there 👋
+# ![LinkedIn](https://github.com/MouraAnalyst/MouraAnalyst/blob/main/simbolo_github.jpg) [Hola, mi nombre es Alex Moura 👋](https://www.linkedin.com/in/alex-moura-analyst/)
 
 <!--
 **MouraAnalyst/MouraAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
