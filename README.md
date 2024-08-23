@@ -15,7 +15,7 @@ Sigo desarrollando mis conocimientos como Data Analyst, y mi objetivo es publica
 
 [![Discord](https://img.shields.io/badge/Discord-alex.gomes.moura-0023F5?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.com)
 </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex Moura-EB3324?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alex-moura-analyst/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Moura-EB3324?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alex-moura-analyst/)
 </br>
 [![Currículum](https://img.shields.io/badge/Currículum-Spanish-00023D?style=for-the-badge&labelColor=101010)](https://github.com/MouraAnalyst/MouraAnalyst/blob/main/Curr%C3%ADculum%20Data%20Analyst%20-%20Spanish.pdf)
 </br>
@@ -30,4 +30,4 @@ Sigo desarrollando mis conocimientos como Data Analyst, y mi objetivo es publica
 
 ## Contacto:
 
-[![Email](https://img.shields.io/badge/Email-alex_gomes10%40hotmail.com-16417C?style=for-the-badge&labelColor=101010)](mailto:alex_gomes10@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-alex%5Fgomes10%40hotmail.com-16417C?style=for-the-badge&labelColor=101010)](mailto:alex_gomes10@hotmail.com)
