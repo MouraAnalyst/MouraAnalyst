@@ -28,6 +28,10 @@ Sigo desarrollando mis conocimientos como Data Analyst, y mi objetivo es publica
 
 <a href="https://github.com/MouraAnalyst/EDA_Corr_tranning"><img src="https://github.com/MouraAnalyst/EDA_Corr_tranning/blob/main/Portada_imagen.jpg"/></a>
 
+## Generador de Contraseñas Seguras
+
+<a href="https://github.com/MouraAnalyst/password-generator"><img src="https://github.com/MouraAnalyst/password-generator/blob/main/screenshot.png"/></a>
+
 ## Contacto:
 
 [![Email](https://img.shields.io/badge/Email-alex%5Fgomes10%40hotmail.com-16417C?style=for-the-badge&labelColor=101010)](mailto:alex_gomes10@hotmail.com)
