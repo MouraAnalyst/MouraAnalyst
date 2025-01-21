@@ -11,6 +11,8 @@ En 2024, finalicé un Máster en Data Analytics, lo que ha complementado mi inte
 
 Sigo desarrollando mis conocimientos como Data Analyst, y mi objetivo es publicar mis proyectos de Analítica de Datos aquí en GitHub para demostrar mis habilidades y conocimientos adquiridos.
 
+Además, he empezado un Máster en Inteligencia Artificial para agregar el conocimiento de programación utilizando esta herramienta poderosa que vino para cambiar nuestras vidas - Futuro "Tecnico AI"😉.
+
 ## Encuéntrame en:
 
 [![Discord](https://img.shields.io/badge/Discord-alex.gomes.moura-0023F5?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.com)
