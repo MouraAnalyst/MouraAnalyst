@@ -38,7 +38,7 @@ Además, he empezado un Máster en Inteligencia Artificial para agregar el conoc
 
 <a href="https://github.com/MouraAnalyst/pdf-extractor"><img src="https://github.com/MouraAnalyst/pdf-extractor/blob/main/docs/images/main_window.png"/></a>
 
-[![Ver Video en LinkedIn](https://github.com/MouraAnalyst/pdf-extractor/blob/main/docs/linkedin_demo.png)](https://www.linkedin.com/feed/update/urn:li:activity:7289337445098119168/)
+[![Ver Video en LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Moura-EB3324?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/feed/update/urn:li:activity:7289337445098119168/)
 
 ## Contacto:
 
