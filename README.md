@@ -34,6 +34,10 @@ Además, he empezado un Máster en Inteligencia Artificial para agregar el conoc
 
 <a href="https://github.com/MouraAnalyst/password-generator"><img src="https://github.com/MouraAnalyst/password-generator/blob/main/screenshot.png"/></a>
 
+## PDF Extractor - Extracción de datos de PDFs a CSV
+
+[![Ver Video en LinkedIn](https://github.com/MouraAnalyst/pdf-extractor/blob/main/docs/linkedin_demo.png)](https://www.linkedin.com/feed/update/urn:li:activity:7289337445098119168/)
+
 ## Contacto:
 
 [![Email](https://img.shields.io/badge/Email-alex%5Fgomes10%40hotmail.com-16417C?style=for-the-badge&labelColor=101010)](mailto:alex_gomes10@hotmail.com)
